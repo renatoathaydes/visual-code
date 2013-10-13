@@ -1,0 +1,15 @@
+.code-area-label {
+  -fx-font: 30pt sanserif;
+}
+
+.code-area-text {
+  -fx-font: 16pt courier;
+}
+
+.code-result-text {
+  -fx-font: 16pt courier;
+}
+
+.bad-code {
+  -fx-text-fill: red;
+}
